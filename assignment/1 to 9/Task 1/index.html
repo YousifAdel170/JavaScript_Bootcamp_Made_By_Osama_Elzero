@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Learn JavaScript</title>
+    <script>
+      // Code One
+        /*
+            This won't work because the there is no element has an id 'el' yet
+        */
+      document.getElementById("el").style.color = "red";
+    </script>
+    <script>
+      // Code Two
+        /*
+            This wil work but after the page loaded
+        */
+      window.onload = function () {
+        document.getElementById("el").style.color = "red";
+      };
+    </script>
+  </head>
+  <body>
+    <h1 id="el">Page Title</h1>
+    <script>
+      // Code Three
+              /*
+            This wil work because there is an already element has an id 'el'
+        */
+      document.getElementById("el").style.color = "red";
+    </script>
+  </body>
+</html>
