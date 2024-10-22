@@ -1,0 +1,10 @@
+console.log(100_000);
+console.log(100000); 
+console.log(5e4 + 5e4);
+console.log(1e5);
+console.log(1_00_000);
+console.log(50000 + 50000);
+console.log(1e4 * 10); 
+console.log(1_00 * 1_000);
+console.log(1e2 * 1e3);
+console.log(5e4 * 2);
