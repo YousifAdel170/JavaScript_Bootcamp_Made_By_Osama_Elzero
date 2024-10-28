@@ -22,7 +22,7 @@ This is the course and the assignments of JS that made by Osama Elzero
 
 ### ✔️ [79 to 85]
 
-### ⏳ [86 to 101]
+### ✔️ [86 to 101]
 
 ### ⏳ [102 to 114]
 
