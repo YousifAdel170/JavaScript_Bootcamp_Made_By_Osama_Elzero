@@ -76,7 +76,7 @@ This is the course and the assignments of JS that made by Osama Elzero
 
 ### ✔️ [94 to 101]
 
-### ⏳ [102 to 110]
+### ✔️ [102 to 110]
 
 ### ⏳ [111 to 114]
 
