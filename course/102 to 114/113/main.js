@@ -1,19 +1,24 @@
 /*
   BOM [Browser Object Model]
-  - Introduction
-  --- Window Object Is The Browser Window
-  --- Window Contain The Document Object
-  --- All Global Variables And Objects And Functions Are Members Of Window Object
-  ------ Test Document And Console
-  - What Can We Do With Window Object ?
-  --- Open Window
-  --- Close Window
-  --- Move Window
-  --- Resize Window
-  --- Print Document
-  --- Run Code After Period Of Time Once Or More
-  --- Fully Control The URL
-  --- Save Data Inside Browser To Use Later
+  Session Storage
+  - setItem
+  - getItem
+  - removeItem
+  - clear
+  - key
+
+  Info
+  - New Tab = New Session
+  - Duplicate Tab = Copy Session
+  - New Tab With Same Url = New Session
 */
 
-window.document.title = "Hello JS";
+// window.localStorage.setItem("color", "red");
+// window.sessionStorage.setItem("color", "blue");
+
+// window.localStorage.clear();
+
+// code of the video
+document.querySelector(".name").onblur = function(){
+  window.localStorage.setItem("input-name", this.value);
+};
