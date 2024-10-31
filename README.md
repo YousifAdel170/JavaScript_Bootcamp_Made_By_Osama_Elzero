@@ -26,9 +26,9 @@ This is the course and the assignments of JS that made by Osama Elzero
 
 ### ✔️ [102 to 114]
 
-### ⏳ [115 to 122]
+### ✔️ [115 to 122]
 
-### ⏳ [123 to 133]
+### ✔️ [123 to 133]
 
 ### ⏳ [134 to 146]
 
@@ -80,9 +80,9 @@ This is the course and the assignments of JS that made by Osama Elzero
 
 ### ✔️ [111 to 114]
 
-### ⏳ [115 to 122]
+### ✔️ [115 to 122]
 
-### ⏳ [123 to 133]
+### ✔️ [123 to 133]
 
 ### ⏳ [134 to 146]
 
