@@ -36,7 +36,7 @@ This is the course and the assignments of JS that made by Osama Elzero
 
 ### ✔️ [159 to 168]
 
-### ⏳ [169 to 178]
+### ✔️ [169 to 178]
 
 ### ⏳ [179 to 188]
 
@@ -90,7 +90,7 @@ This is the course and the assignments of JS that made by Osama Elzero
 
 ### ✔️ [159 to 168]
 
-### ⏳ [169 to 178]
+### ✔️ [169 to 178]
 
 ### ⏳ [179 to 188]
 
